@@ -1,39 +1,42 @@
-
-.logo{
-    background-color: #000000;
-    font-size: 45px;
-    color: white;
-    
-}
-#producto{
-    background-color:#5a3ca6;
+* {
+  box-sizing: border-box;
 }
 
-.colorbarra{
-    font-size: 30px;
-    margin:10px;
+.logo {
+  background-color: black;
+  font-size: 45px;
+  color: white;
 }
 
-.carousel-indicators li{
-    height: 20px;
-    width: 15px;
-    border-radius: 0%;
-    border: 2px solid #4b0ac3;
-
+#producto {
+  background-color: #5a3ca6;
 }
 
-footer i{
-    font-size: 35px;
-
+.colorbarra {
+  font-size: 30px;
+  margin: 10px;
 }
 
-.marginIcon{
-    font-size: 26px;
-    color: white;
-    background-color: #000000;
+.carousel-indicators li {
+  height: 20px;
+  width: 15px;
+  border-radius: 0%;
+  border: 2px solid black;
 }
 
-.logoverde{
-    color: #3d81e0;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+footer i {
+  font-size: 35px;
 }
+
+.marginIcon {
+  font-size: 26px;
+  color: white;
+  background-color: black;
+}
+
+.logoverde {
+  color: #3d81e0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*# sourceMappingURL=estilos.css.map */

@@ -1,0 +1,44 @@
+$color1: black;
+$color2:white;
+
+*{
+    box-sizing: border-box;
+}
+.logo{
+    background-color: $color1;
+    font-size: 45px;
+    color: $color2;
+    
+}
+#producto{
+    background-color:#5a3ca6;
+}
+
+.colorbarra{
+    font-size: 30px;
+    margin:10px;
+}
+
+.carousel-indicators li{
+    height: 20px;
+    width: 15px;
+    border-radius: 0%;
+    border: 2px solid $color1;
+
+}
+
+footer i{
+    font-size: 35px;
+
+}
+
+.marginIcon{
+    font-size: 26px;
+    color: $color2;
+    background-color: $color1;
+}
+
+.logoverde{
+    color: #3d81e0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
